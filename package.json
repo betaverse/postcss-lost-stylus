@@ -1,0 +1,31 @@
+{
+  "name": "postcss-lost-stylus",
+  "version": "1.0.5",
+  "description": "Basic front-end build with postcss, lost grid, stylus, connect (LiveReload) and boy",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betaverse/postcss-lost-stylus"
+  },
+  "keywords": [
+    "postcss",
+    "lost grid",
+    "stylus",
+    "connect (LiveReload)",
+    "gulp"
+  ],
+  "author": "Kelly Galvin (dev@betaverse.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.2.3",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-postcss": "^6.0.1",
+    "gulp-stylus": "^2.1.2",
+    "lost": "^6.6.2",
+    "poststylus": "^0.2.2"
+  }
+}
