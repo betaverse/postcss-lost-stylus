@@ -30,7 +30,7 @@ A lightweight, up-to-date version of HTML5 Boilerplate with conditionally loaded
 * [download](https://github.com/betaverse/postcss-lost-stylus/archive/master.zip) or clone this repo
 * download and install [node.js](https://nodejs.org/en/)
 * open your command line and locate this repo on your local machine:
-* `cd *\postcss-lost-stylus`
+    * `cd *\postcss-lost-stylus`
 * install the dependencies:
     * `npm install --save-dev gulp gulp-postcss autoprefixer lost gulp-connect gulp-stylus poststylus`
 * run the default task:
@@ -39,6 +39,7 @@ A lightweight, up-to-date version of HTML5 Boilerplate with conditionally loaded
     * `localhost:8080`
 * edit and __save__:
     * `postcss-lost-stylus\src\css\styles.styl`
-    * your browser will refresh automatically with your changes
+    * your browser will refresh automatically with your __saved__ changes
+    * resize your browser window to view the responsive layout sample
 
 
